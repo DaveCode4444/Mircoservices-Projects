@@ -1,0 +1,18 @@
+[submodule "eventuate-examples-java-spring-todo-list"]
+	path = eventuate-examples-java-spring-todo-list
+	url = https://github.com/eventuate-examples/eventuate-examples-java-spring-todo-list
+[submodule "eventuate-examples-java-customers-and-orders"]
+	path = eventuate-examples-java-customers-and-orders
+	url = https://github.com/eventuate-examples/eventuate-examples-java-customers-and-orders
+[submodule "eventuate-examples-java-aws-gateway-echo"]
+	path = eventuate-examples-java-aws-gateway-echo
+	url = https://github.com/eventuate-examples/eventuate-examples-java-aws-gateway-echo
+[submodule "eventuate-examples-java-aws-lambda-todo-list"]
+	path = eventuate-examples-java-aws-lambda-todo-list
+	url = https://github.com/eventuate-examples/eventuate-examples-java-aws-lambda-todo-list
+[submodule "event-sourcing-examples"]
+	path = event-sourcing-examples
+	url = https://github.com/cer/event-sourcing-examples
+[submodule "es-kanban-board"]
+	path = es-kanban-board
+	url = https://github.com/eventuate-examples/es-kanban-board
