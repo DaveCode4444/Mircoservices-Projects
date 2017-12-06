@@ -16,3 +16,6 @@
 [submodule "es-kanban-board"]
 	path = es-kanban-board
 	url = https://github.com/eventuate-examples/es-kanban-board
+[submodule "JavaRoadStorm2016"]
+	path = JavaRoadStorm2016
+	url = https://github.com/stormpath/JavaRoadStorm2016.git
