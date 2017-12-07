@@ -1,0 +1,8 @@
+Microsoft.Extensions.DependencyInjection
+Microsoft.Extensions.DependencyInjection.Abstractions
+Microsoft.Orleans.Core
+Microsoft.Orleans.OrleansRuntime
+Microsoft.Orleans.OrleansProviders
+Ninject
+Ninject.Extensions.Conventions
+Ninject.Extensions.Factory
