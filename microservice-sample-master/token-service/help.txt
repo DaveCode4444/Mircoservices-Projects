@@ -1,0 +1,3 @@
+curl -H "Content-Type: application/json" -X GET  http://localhost:1115/tokenservice/generatetoken/asas
+
+curl -H "Content-Type: application/json" -X GET  http://localhost:1115/tokenservice/validateToken/asas

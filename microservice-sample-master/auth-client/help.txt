@@ -1,0 +1,6 @@
+curl -H "Content-Type: application/json" -X POST -d '{"loginId":"xyz","password":"xyzqwqq"}' http://localhost:1113/login/authenticate
+ 
+curl -H "Content-Type: application/json" -X POST -d '{"loginId":"xyz","password":"xyz"}' http://localhost:1113/login/authenticate
+
+
+curl -H "Content-Type: application/json" -X GET  http://localhost:1113/token/validateToken/
