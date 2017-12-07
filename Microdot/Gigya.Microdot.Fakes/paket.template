@@ -1,0 +1,11 @@
+type
+	project
+description
+	A Collection of fakes for various Microdot components, used for testing.
+	Part of the Microdot framework. See also Gigya.Microdot.Testing.
+projectUrl
+	https://github.com/gigya/microdot
+licenseUrl
+	https://github.com/gigya/microdot/blob/master/LICENSE.md
+tags
+	gigya microdot microservice microservices fakes mocks mocking unit-testing
