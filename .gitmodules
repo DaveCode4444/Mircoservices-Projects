@@ -19,3 +19,6 @@
 [submodule "JavaRoadStorm2016"]
 	path = JavaRoadStorm2016
 	url = https://github.com/stormpath/JavaRoadStorm2016.git
+[submodule "microservice-rpc-examples"]
+	path = microservice-rpc-examples
+	url = https://github.com/vmlinz/microservice-rpc-examples.git
